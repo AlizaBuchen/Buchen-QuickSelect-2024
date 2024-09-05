@@ -1,0 +1,9 @@
+  git init
+  git branch -m master main
+  git add .
+  git commit -m "initial commit".idea/
+out/
+.gradle/
+build/
+.DS_STORE
+**/apikey.properties
